@@ -33,7 +33,7 @@ Siga os passos abaixo para executar o frontend localmente.
 ### 1. Clone o repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio-frontend.git](https://github.com/seu-usuario/seu-repositorio-frontend.git)
+git clone https://github.com/opinha/PROJETO-V3.4/
 cd seu-repositorio-frontend
 ```
 
@@ -56,3 +56,4 @@ npm run dev
 Após a execução, a aplicação estará disponível no seu navegador, geralmente no endereço:
 
 ➡️ **http://localhost:5173**
+
